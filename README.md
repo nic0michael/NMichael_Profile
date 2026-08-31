@@ -2,7 +2,7 @@
 
 **[You can download or Vier my latest CV here](https://github.com/nic0michael/NMichael_Profile/blob/master/Nico_Michael_Full_CV_2026-08-28.pdf)**
 
-**[You can view my Profile video in YouTube here](https://youtu.be/_PqAzjNsrT0)**
+**[You can view my Portfolio Video in YouTube here](https://youtu.be/_PqAzjNsrT0)**
 
 
 ## About Me
