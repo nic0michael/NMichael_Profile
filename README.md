@@ -1,4 +1,4 @@
-# Profile of Nicholas Michael
+# Portfolio of Nicholas Michael
 
 **[You can download my latest CV here]()**
 
