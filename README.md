@@ -58,3 +58,14 @@ Developed a **Python-based Kubernetes Cluster Generator** to automate the config
 Researched and developed approaches to **AI-assisted, Spec-Driven and Context-Driven Development**, including multi-agent development, AI coding governance and practical evaluation of tools such as Claude Code, Codex, Cursor and GitHub Copilot.
 
 
+## AI-Assisted Development & Innovation
+
+My journey into AI-assisted software development has focused on **practical experimentation, evaluation and methodology**, rather than simply using AI coding tools.
+
+I have researched and evaluated tools including **GitHub Copilot, Claude Code, OpenAI Codex and Cursor**, exploring both single-agent and multi-agent approaches to software development.
+
+This work led me to develop **Spec-Driven Development (SDD)** and **Iterative Context-Driven Development (ICDD)** approaches, combining AI-assisted brainstorming, requirement refinement and iterative quality reviews.
+
+I have also researched **AI coding governance**, developed corporate AI policy and coding guidelines, and explored the use of AI agents in professional software engineering.
+
+My goal is to understand how AI can be integrated into established engineering practices such as **Clean Code, TDD, BDD, DevOps and architecture**, while maintaining software quality and professional development standards.
