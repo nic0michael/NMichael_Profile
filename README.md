@@ -1,6 +1,6 @@
 # Portfolio of Nicholas Michael
 
-**[You can view or download my latest CV here](https://github.com/nic0michael/NMichael_Profile/blob/master/Nico_Michael_Full_CV_2026-08-30.pdf)**
+**[You can view or download my latest CV here](https://github.com/nic0michael/NMichael_Profile/blob/master/)**
 
 **[You can view my Portfolio Video in YouTube here](https://youtu.be/_PqAzjNsrT0)**
 
