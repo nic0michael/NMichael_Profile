@@ -4,7 +4,7 @@
 
 **[View my Portfolio Video in YouTube here](https://youtu.be/_PqAzjNsrT0)**
 
-**[You can view my Portfolio Projects here:](https://github.com/nic0michael/Trans-Process-Platf/tree/master)**
+**[You can view my Portfolio Project here:](https://github.com/nic0michael/Trans-Process-Platf/tree/master)**
 
 
 ## About Me
