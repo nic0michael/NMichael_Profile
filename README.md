@@ -4,8 +4,6 @@
 
 **[View my AI Portfolio video in YouTube here:](https://youtu.be/GyjAqyJZw_Y)**
 
-**[View my Portfolio Video in YouTube here](https://youtu.be/_PqAzjNsrT0)**
-
 **[You can view my Portfolio Project here:](https://github.com/nic0michael/Trans-Process-Platf/tree/master)**
 
 
